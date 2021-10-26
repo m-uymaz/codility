@@ -1,5 +1,5 @@
 // For Colity
-// Check the sequence of the arr (A) from 1 to (K)
+// CHECK THE SEQUENCE OF AN ARR (A) FROM 1 TO (K)
 
 function solution(A, K) {
     var n = A.length;
@@ -11,3 +11,5 @@ function solution(A, K) {
     }
     return true;
 }
+
+// WARNIG: Take this solution with grain of salt!!!
