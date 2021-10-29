@@ -1,4 +1,4 @@
-// Check if a STRING has REAPEATING letters in it!
+// Check if a STRING has REAPEATING letter in it!
 // 100% solution in Codility
 
 // The first index is compared against the other Indices to find a match.
