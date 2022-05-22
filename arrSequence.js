@@ -10,6 +10,4 @@ function solution(A, K) {
         return false;
     }
     return true;
-}
-
-// WARNIG: Take this solution with grain of salt!!!
+};
